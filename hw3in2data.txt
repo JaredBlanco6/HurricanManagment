@@ -1,0 +1,34 @@
+hurricane category1 category2 category3 category4 category5
+category1 Connecticut1 Florida1 Georgia1 Alabama1 NewYork1 Louisiana1 Massachusetts1 NorthCarolina1 RhodeIsland1 SouthCarolina1 Virginia1
+Alabama1 Danny Katrina Camille Dennis
+Connecticut1 Donna
+Florida1 Florence Katrina Rita
+Virginia1 Donna
+Georgia1 Matthew
+Louisiana1 Danny
+NewYork1 Donna
+Massachusetts1 Donna
+NorthCarolina1 Dorian Florence Matthew
+RhodeIsland1 Donna
+SouthCarolina1 Matthew
+category5 Florida5 Louisiana5 Mississippi5
+Florida5 Andrew Michael
+Louisiana5 Camille
+Mississippi5 Camille
+category3 Alabama3 Florida3 Louisiana3 Mississippi3
+Mississippi3 Elena Frederic Katrina
+Alabama3 Elena Frederic
+Louisiana3 Andrew Katrina Rita
+Florida3 Dennis Wilma
+category4 Florida4 Texas4
+Florida4 Donna Irma
+Texas4 Harvey
+category2 Connecticut2 Florida2 Georgia2 Massachusetts2 NewYork2 NorthCarolina2 RhodeIsland2 Texas2
+Connecticut2 Bob
+Florida2 Frances Matthew
+Georgia2 Michael
+Massachusetts2 Bob
+NewYork2 Bob
+NorthCarolina2 Donna
+RhodeIsland2 Bob
+Texas2 Rita

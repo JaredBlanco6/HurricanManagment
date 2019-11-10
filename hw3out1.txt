@@ -1,0 +1,7 @@
+GetNamesByCategory category3 Katrina Rita
+GetNamesByState Texas Harvey
+GetNamesWithMultipleStates Katrina
+GetCategory Harvey category4
+GetState Katrina Louisiana3 Mississippi3
+GetNamesWithMultipleCategories none
+GetNamesByCategoryAndState category3 Louisiana Katrina Rita
